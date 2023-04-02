@@ -1,12 +1,12 @@
 {
   "googlevideos": [
     {
-      "category": "IT BOOTCAMP",
+      "category": "HIMATIF",
       "videos": [
         {
           "description": "himatif salam inovatif",
           "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4"],
-          "card": "https://drive.google.com/file/d/1YuEIkl7JFIiNLtyKmGLbRAh41jzOE02Y/view?usp=sharing",
+          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg",
           "background":"https://drive.google.com/file/d/1g6SxCSgvvGwzUieQ1Mtt7MTgaGyz1yC2/view?usp=sharing",
           "title": "itbc",
           "studio": "IT BOOTCAMP"
@@ -14,7 +14,7 @@
         {
           "description": "With Google+ Instant Upload, every picture you take on your phone is instantly backed up to a private Google+ album. It's a simple way to make sure you never lose another memory.",
           "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4"],
-          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg",
+          "card": "",
           "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
           "title": "New Dad",
           "studio": "Google+"
