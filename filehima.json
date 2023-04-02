@@ -6,8 +6,8 @@
         {
           "description": "himatif salam inovatif",
           "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4"],
-          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-          "background":"https://drive.google.com/file/d/1YuEIkl7JFIiNLtyKmGLbRAh41jzOE02Y/view?usp=share_link",
+          "card": "https://drive.google.com/file/d/1YuEIkl7JFIiNLtyKmGLbRAh41jzOE02Y/view?usp=sharing",
+          "background":"https://drive.google.com/file/d/1g6SxCSgvvGwzUieQ1Mtt7MTgaGyz1yC2/view?usp=sharing",
           "title": "itbc",
           "studio": "IT BOOTCAMP"
         },
